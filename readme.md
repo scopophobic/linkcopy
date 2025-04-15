@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icons/readmelogo.png" alt="Extension Logo" width="100" />
+  <img src="icons/readmelogo.png" alt="Extension Logo" />
 </p>
 
 <h1 align="center">🔗 SmartCopy - Clean URL Saver</h1>
